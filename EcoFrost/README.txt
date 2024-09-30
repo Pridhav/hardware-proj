@@ -1,4 +1,4 @@
-*************************************************************************  EcoFrost project README  ****************************************************************************************
+                                                            EcoFrost project README 
 This is the micro-controller and IoT integration code for an esp32 module that is compiled in Arduino ide.
 
 
@@ -53,4 +53,3 @@ Libraries for Arduino IDE:
 -> DHT sensor library" by Adafruit
 -> "Blynk" by Volodymyr Shymanskyy.
 
-********************************************************************************************************************************************************************************************
